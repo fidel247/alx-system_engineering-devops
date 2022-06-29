@@ -1,2 +1,2 @@
 #!/bin/bash
-find /path /to /dir -name '*~" rm
+find /path /to /dir -name '*~" -delete
