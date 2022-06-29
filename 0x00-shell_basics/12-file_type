@@ -1,2 +1,2 @@
 #!/bin/bash
-echo file iamfile/tmp
+echo iamfile
