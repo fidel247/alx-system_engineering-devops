@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R --guillaume betty hello
+sudo chmod --guillaume betty hello
